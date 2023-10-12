@@ -1,4 +1,4 @@
-### Olá, eu sou o Taiki👋
+### Olá, eu sou o San👋
 
 - 🔭 Estou trabalhando em: Nagatoro Bot em Discord.js
 - 🌱 Estou aprendendo: javascript / HTML / CSS
