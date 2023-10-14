@@ -22,9 +22,9 @@ Eu gosto muito de jogar e aprender novas coisas, e sempre me interessei em progr
 - ⚡ Fato Engraçado: Sou meio esquecido então sempre acabo esquencendo algo importante na programação kkk
 
 ##### Projetos
-- [Site Android](https://www.ysanzinho.github.io/site-android), projeto do curso do CursoemVideo.
-- [Projeto Cordel](https://www.ysanzinho.github.io/projeto-cordel), projeto do curso do CursoemVideo.
-- [Redes Sociais](https://www.ysanzinho.github.io/projeto-social), projeto do curso do CursoemVideo.
+- [Site Android](https://www.ysanzinho.github.io/site-android.github.io), projeto do curso do CursoemVideo.
+- [Projeto Cordel](https://www.ysanzinho.github.io/projeto-cordel.github.io), projeto do curso do CursoemVideo.
+- [Redes Sociais](https://www.ysanzinho.github.io/projeto-social.github.io), projeto do curso do CursoemVideo.
 
 ##### Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ySanzinho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
