@@ -1,6 +1,6 @@
 ### Olá, eu sou o San👋
 #### Redes Sociais
-Todas minhas redes sociais na <a href="https://ayo.so/ysanzinho" target="_blank">Ayo.so</a>
+Todas minhas redes sociais na <a href="https://ayo.so/ysanzinho_" target="_blank">Ayo.so</a>
 
 Sou um jovem que faz alguns anos que entrei nesse universo da tecnologia. Tenho alguns cursos de voltado a informatica como cursos de Design atrávez de programas como:
 
