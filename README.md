@@ -14,7 +14,7 @@ Sou um jovem que faz alguns anos que entrei nesse universo da tecnologia. Tenho 
 E alguns outros cursos de Microsoft Office: Execel(Básico ao Avançado), Outlook, World(Básico a Intermediario) alem muitos outros para parte de administração de empresas e pessoas, atualmente cursando Administração em modalidade de Bacharelado!.
 
 Eu gosto muito de jogar e aprender novas coisas, e sempre me interessei em programação, mas nunca tinha pegado para estudar apesar de ter alguma noção por ter aprendido alguma coisa por vídeos. Mas agora comecei a estudar, já finalizei o cursos **GRATUITO** do CursoemVideo do Gustavo Guanabara, caso deseje assistir o curso vou deixar o link do site do **<a href="https://www.cursoemvideo.com" target="_blank">CursoemVideo</a>**
-Atualmente estou cursando pela Udemy e vou deixar o link do meu curso que são 28 seções e bem completo de desenvolvimento web ⇒ [Desenvolvimento Web Completo - 20 cursos + 20 projetos | Udemy](https://www.udemy.com/course/web-completo/)
+Atualmente estou cursando pela Udemy e vou deixar o link do meu curso que são 28 seções e bem completo de desenvolvimento web ⇒ **<a href="https://www.udemy.com/course/web-completo/" target="_blank">Desenvolvimento Web Completo - 20 cursos + 20 projetos | Udemy</a>**
 
 <img align="right" src="img/html5-logo.png" width="200">
 
