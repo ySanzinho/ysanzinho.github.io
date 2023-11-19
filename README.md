@@ -31,6 +31,7 @@ Atualmente estou cursando pela Udemy e vou deixar o link do meu curso que são 2
 - <a href="https://ysanzinho.github.io/projeto-social.github.io/" target="_blank">Projeto Social</a>, projeto do curso do CursoemVideo.
 - <a href="https://login-painel.glitch.me/" target="_blank">Login Painel Moderno</a>, projeto sozinho com youtube.
 - <a href="https://ysanzinho.github.io/projeto-museu-nacional/" target="_blank">Projeto Museu Nacional</a>, projeto do curso da Udemy.
+- <a href="https://ysanzinho.github.io/projeto-spotify/" target="_blank">Projeto Spotify</a>, projeto do curso da Udemy.
 
 ##### Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ySanzinho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
