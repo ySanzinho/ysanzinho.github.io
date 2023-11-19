@@ -27,8 +27,8 @@ Atualmente estou cursando pela Udemy e vou deixar o link do meu curso que são 2
 
 ##### Projetos de cursos
 - <a href="https://ysanzinho.github.io/site-android/" target="_blank">Site Android</a>, projeto do curso do CursoemVideo. <a href="https://github.com/ySanzinho/site-android" target="_blank">Acesse o repositório</a>
-- <a href="https://ysanzinho.github.io/projeto-cordel.github.io/" target="_blank">Projeto Cordel</a>, projeto do curso do CursoemVideo. <a href="https://github.com/ySanzinho/projeto-cordel" target="_blank">Acesse o repositório</a>
-- <a href="https://ysanzinho.github.io/projeto-social.github.io/" target="_blank">Projeto Social</a>, projeto do curso do CursoemVideo. <a href="https://github.com/ySanzinho/projeto-social" target="_blank">Acesse o repositório</a>
+- <a href="https://ysanzinho.github.io/projeto-cordel/" target="_blank">Projeto Cordel</a>, projeto do curso do CursoemVideo. <a href="https://github.com/ySanzinho/projeto-cordel" target="_blank">Acesse o repositório</a>
+- <a href="https://ysanzinho.github.io/projeto-social/" target="_blank">Projeto Social</a>, projeto do curso do CursoemVideo. <a href="https://github.com/ySanzinho/projeto-social" target="_blank">Acesse o repositório</a>
 - <a href="https://login-painel.glitch.me/" target="_blank">Login Painel Moderno</a>, projeto sozinho com youtube. <a href="https://glitch.com/~login-painel" target="_blank">Acesse o repositório</a>
 - <a href="https://ysanzinho.github.io/projeto-museu-nacional/" target="_blank">Projeto Museu Nacional</a>, projeto do curso da Udemy. <a href="https://github.com/ySanzinho/projeto-museu-nacional" target="_blank">Acesse o repositório</a>
 - <a href="https://ysanzinho.github.io/projeto-spotify/" target="_blank">Projeto Spotify</a>, projeto do curso da Udemy. <a href="https://github.com/ySanzinho/projeto-spotify" target="_blank">Acesse o repositório</a>
