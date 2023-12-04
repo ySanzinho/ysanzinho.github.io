@@ -1,6 +1,7 @@
 ### Olá, eu sou o San👋
 #### Redes Sociais
 Todas minhas redes sociais na <a href="https://ayo.so/ysanzinho_" target="_blank">Ayo.so</a>
+Meu simples portifólio <a href="https://ysanzinho.github.io/filipe-portifolio/" target="_blank">AQUI!</a>
 
 Sou um jovem que faz alguns anos que entrei nesse universo da tecnologia. Tenho alguns cursos de voltado a informatica como cursos de Design atrávez de programas como:
 
@@ -32,6 +33,7 @@ Atualmente estou cursando pela Udemy e vou deixar o link do meu curso que são 2
 - <a href="https://login-painel.glitch.me/" target="_blank">Login Painel Moderno</a>, projeto sozinho com youtube. <a href="https://glitch.com/~login-painel" target="_blank">Acesse o repositório</a>
 - <a href="https://ysanzinho.github.io/projeto-museu-nacional/" target="_blank">Projeto Museu Nacional</a>, projeto do curso da Udemy. <a href="https://github.com/ySanzinho/projeto-museu-nacional" target="_blank">Acesse o repositório</a>
 - <a href="https://ysanzinho.github.io/projeto-spotify/" target="_blank">Projeto Spotify</a>, projeto do curso da Udemy. <a href="https://github.com/ySanzinho/projeto-spotify" target="_blank">Acesse o repositório</a>
+- <a href="https://ysanzinho.github.io/projeto-finans/" target="_blank">Projeto Finans</a>, projeto do curso da Udemy. <a href="https://github.com/ySanzinho/projeto-finans" target="_blank">Acesse o repositório</a>
 
 ##### Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ySanzinho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
