@@ -1,39 +1,58 @@
-### Olá, eu sou o San👋
-#### Redes Sociais
-Todas minhas redes sociais na <a href="https://ayo.so/ysanzinho_" target="_blank">Ayo.so</a>
-Meu simples portifólio <a href="https://ysanzinho.github.io/filipe-portifolio/" target="_blank">AQUI!</a>
+### 👋 Olá, eu sou o Filipe!
 
-Sou um jovem que faz alguns anos que entrei nesse universo da tecnologia. Tenho alguns cursos de voltado a informatica como cursos de Design atrávez de programas como:
+Sou um entusiasta da tecnologia em constante evolução. Minha jornada nesse universo começou há alguns anos, e desde então venho combinando experiências práticas com muita curiosidade e vontade de aprender.
 
-<img align="right" src="img/css3-logo.png" width="200">
+---
 
-* CoreDraw
-* Photoshop
-* Illustrator
-* Sony Vegas
-  
-E alguns outros cursos de Microsoft Office: Execel(Básico ao Avançado), Outlook, World(Básico a Intermediario) alem muitos outros para parte de administração de empresas e pessoas, atualmente cursando Administração em modalidade de Bacharelado!.
+#### 🎨 Formação e Conhecimentos
 
-Eu gosto muito de jogar e aprender novas coisas, e sempre me interessei em programação, mas nunca tinha pegado para estudar apesar de ter alguma noção por ter aprendido alguma coisa por vídeos. Mas agora comecei a estudar, já finalizei o cursos **GRATUITO** do CursoemVideo do Gustavo Guanabara, caso deseje assistir o curso vou deixar o link do site do **<a href="https://www.cursoemvideo.com" target="_blank">CursoemVideo</a>**
-Atualmente estou cursando pela Udemy e vou deixar o link do meu curso que são 28 seções e bem completo de desenvolvimento web ⇒ **<a href="https://www.udemy.com/course/web-completo/" target="_blank">Desenvolvimento Web Completo - 20 cursos + 20 projetos | Udemy</a>**
+Tenho formação técnica em áreas relacionadas a design gráfico e administração, com cursos como:
 
-<img align="right" src="img/html5-logo.png" width="200">
+##### Design e Multimídia:
+- CorelDRAW
+- Photoshop
+- Illustrator
+- Sony Vegas
 
-## Prentensões / Projetos
+##### Ferramentas de Escritório e Gestão:
+- Microsoft Excel (Básico ao Avançado)
+- Microsoft Word (Básico ao Intermediário)
+- Microsoft Outlook
+- Contabilidade
+- Liderança e Gestão de Pessoas
 
-- 🔭 Predendo começar um projeto: Nagatoro Bot em Discord.js
-- 🌱 Estou aprendendo: HTML / CSS / Javascript
-- 💬 Desejo aprender ainda programação: Java/Python/Lua
-- ⚡ Fato Engraçado: Sou meio esquecido então sempre acabo esquencendo algo importante na programação kkk
+Comecei minha graduação em **Administração**, mas em 2023 decidi seguir meu verdadeiro interesse: a **Análise e Desenvolvimento de Sistemas**. Desde então, tenho me aprofundado cada vez mais em programação e desenvolvimento web.
 
-##### Projetos de cursos
-- <a href="https://ysanzinho.github.io/site-android/" target="_blank">Site Android</a>, projeto do curso do CursoemVideo. <a href="https://github.com/ySanzinho/site-android" target="_blank">Acesse o repositório</a>
-- <a href="https://ysanzinho.github.io/projeto-cordel/" target="_blank">Projeto Cordel</a>, projeto do curso do CursoemVideo. <a href="https://github.com/ySanzinho/projeto-cordel" target="_blank">Acesse o repositório</a>
-- <a href="https://ysanzinho.github.io/projeto-social/" target="_blank">Projeto Social</a>, projeto do curso do CursoemVideo. <a href="https://github.com/ySanzinho/projeto-social" target="_blank">Acesse o repositório</a>
-- <a href="https://login-painel.glitch.me/" target="_blank">Login Painel Moderno</a>, projeto sozinho com youtube. <a href="https://glitch.com/~login-painel" target="_blank">Acesse o repositório</a>
-- <a href="https://ysanzinho.github.io/projeto-museu-nacional/" target="_blank">Projeto Museu Nacional</a>, projeto do curso da Udemy. <a href="https://github.com/ySanzinho/projeto-museu-nacional" target="_blank">Acesse o repositório</a>
-- <a href="https://ysanzinho.github.io/projeto-spotify/" target="_blank">Projeto Spotify</a>, projeto do curso da Udemy. <a href="https://github.com/ySanzinho/projeto-spotify" target="_blank">Acesse o repositório</a>
-- <a href="https://ysanzinho.github.io/projeto-finans/" target="_blank">Projeto Finans</a>, projeto do curso da Udemy. <a href="https://github.com/ySanzinho/projeto-finans" target="_blank">Acesse o repositório</a>
+---
 
-##### Status
+#### 👨‍💻 Minha Jornada na Programação
+
+Meu primeiro contato real com código foi por meio do excelente curso gratuito do **Curso em Vídeo**, do professor Gustavo Guanabara.  
+Se quiser conhecer: 👉 [Curso em Vídeo](https://www.cursoemvideo.com)
+
+Também estou estudando pela Udemy, com um curso completo que abrange diversas áreas do Desenvolvimento Web:  
+👉 [Desenvolvimento Web Completo - 20 cursos + 20 projetos](https://www.udemy.com/course/web-completo/)
+
+---
+
+<img align="right" src="img/html5-logo.png" width="120">
+<img align="right" src="img/css3-logo.png" width="120">
+
+#### 🚀 Projetos e Objetivos
+
+- 🛠️ Atualmente trabalhando na criação do **Rimuruzin**, um bot para Discord feito em **JavaScript/TypeScript**.
+- ✅ Já estudei: **Python**
+- 📚 Estou aprendendo: **JavaScript** e **TypeScript**
+- 🔍 Quero aprender mais sobre: **React** e **Vue.js**
+- 🎮 Hobby: Jogar e explorar novas tecnologias
+- 🤔 Fato curioso: Sou esquecidinho, então sempre deixo um comentário ou lembrete no código pra me salvar depois! 😂
+
+---
+
+#### 📊 Estatísticas
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ySanzinho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+Se quiser trocar ideia, colaborar em projetos ou compartilhar aprendizados, fique à vontade para me chamar! 🚀
